@@ -14,8 +14,8 @@ My focus areas are **Video codecs (V4L2/media subsystem)**, **Graphics (DRM/KMS)
 
 ---
 ## 🎥 V4L2 / Media Subsystem Contributions
-https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2ce45197befbdc60f72288346c67930db3a4489e
-https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c218ce4f98eccf5a40de64c559c52d61e9cc78ee
+- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2ce45197befbdc60f72288346c67930db3a4489e
+- https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c218ce4f98eccf5a40de64c559c52d61e9cc78ee
 ---
 
 ## cleanups/staging commits into vt6655 driver
