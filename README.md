@@ -16,6 +16,11 @@ My focus areas are **Video codecs (V4L2/media subsystem)**, **Graphics (DRM/KMS)
 ## 🎥 V4L2 / Media Subsystem Contributions
 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2ce45197befbdc60f72288346c67930db3a4489e
 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c218ce4f98eccf5a40de64c559c52d61e9cc78ee
+- https://web.git.kernel.org/pub/scm/linux/kernel/git/shuah/linux.git/commit/?h=vimc&id=c3a017646b770b76f0f08c96aa74fbc4404ef674
+- https://web.git.kernel.org/pub/scm/linux/kernel/git/shuah/linux.git/commit/?h=vimc&id=c440205537068a25285d4afc3bde6baae56a3bae
+- https://web.git.kernel.org/pub/scm/linux/kernel/git/shuah/linux.git/commit/?h=vimc&id=d50c39ed1bd10922fe314b8cca7f102b1b9160f5
+- https://web.git.kernel.org/pub/scm/linux/kernel/git/shuah/linux.git/commit/?h=vimc&id=2634d4562d2d92d6c9f1d68181a12fa625904ac7
+- https://web.git.kernel.org/pub/scm/linux/kernel/git/shuah/linux.git/commit/?h=vimc&id=4a8359c85a5912174dc966233d31689609cb260f
 ---
 
 ## cleanups/staging commits into vt6655 driver
